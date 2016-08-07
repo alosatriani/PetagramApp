@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="mainBoton">Aprietame</string>
+    <string name="bienvenida">Hola Mundo</string>
+    <string name="toast1">Hola 1</string>
+    <string name="accion">Accion Texto</string>
+    <string name="tituloMario">Mario Bros!</string>
+    <string name="descTarjeta">Version en la que se pudo CardView</string>
+
+    <string-array name="planetas">
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Venus</item>
+    </string-array>
+
+    <string-array name="otrosplanetas">
+        <item>Mercurio</item>
+        <item>Saturno</item>
+        <item>Jupiter</item>
+    </string-array>
+</resources>
